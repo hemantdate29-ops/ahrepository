@@ -1,5 +1,0 @@
-dept_id,dept_name,location,budget
-10,Information Technology,Mumbai,5000000
-20,Human Resources,Pune,3000000
-30,Finance,Mumbai,4000000
-40,Marketing,Nagpur,2000000
